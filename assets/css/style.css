@@ -223,6 +223,6 @@ footer a {
 }
 
 @media print{
-    body{font-size: 225%;}
+    body{font-size: 226%;}
     header, iframe, footer, aside, section{display: none;}
 }
